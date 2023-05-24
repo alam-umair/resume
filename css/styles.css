@@ -132,6 +132,8 @@ a:hover {
 }
 
 .chilli-img {
+  position: relative;
+  top: 2%;
   width: 33%;
   float: left;
   margin-right: 15%;
